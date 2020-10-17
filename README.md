@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Allan Vigiani</h1>
+<h1 align="center">Hi 👋, I'm Allan Vigiani</h1>
 <h3 align="left">A passionate frontend developer from Brazil</h3>
 
 
@@ -17,4 +17,8 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=valdemir1001" id="counter">
 </p>
