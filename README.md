@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allan Vigiani</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-Entusiasta em:
+<h3 align="left">Applications:</h3>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -11,7 +11,7 @@ Entusiasta em:
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=allanvigiani)
 
-
+<h3 align="left">Connect with me:</h3>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/allan-vigiani/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/allan_vigiani/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/allan.v.flu/)
